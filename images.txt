@@ -1,1 +1,1 @@
-qdrant/qdrant:v1.10.0
+frangoteam/fuxa:latest
