@@ -1,1 +1,1 @@
-ghcr.io/opendatadiscovery/odd-collector:0.1.63
+kicbase/stable:v0.0.44
