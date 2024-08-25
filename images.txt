@@ -1,4 +1,1 @@
-tooljet/tooljet:EE-LTS-2.50.9.25
-postgres:13
-postgrest/postgrest:v12.0.2
-redis:6.2
+python:3.10.14-bullseye
