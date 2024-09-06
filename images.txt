@@ -1,1 +1,1 @@
-python:3.10.14-bullseye
+mysql:5.7.41
