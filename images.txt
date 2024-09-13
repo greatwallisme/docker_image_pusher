@@ -1,1 +1,1 @@
-mysql:5.7.41
+mysql:8.0-debian
