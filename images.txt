@@ -1,1 +1,1 @@
-minio/minio:RELEASE.2024-09-13T20-26-02Z
+nginx:1.27.1-alpine3.20-perl
