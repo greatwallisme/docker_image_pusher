@@ -1,1 +1,1 @@
-redhat/ubi9:9.4
+grafana/grafana:11.3.0-ubuntu
