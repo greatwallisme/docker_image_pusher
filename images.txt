@@ -1,1 +1,1 @@
-grafana/grafana:11.3.0-ubuntu
+rust:1.80-bookworm
