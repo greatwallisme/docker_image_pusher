@@ -1,1 +1,1 @@
-debian:bookworm
+rust:1.81-bookworm
