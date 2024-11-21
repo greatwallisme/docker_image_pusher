@@ -1,1 +1,1 @@
-flowiseai/flowise:2.1.5
+langfuse/langfuse:2.91
