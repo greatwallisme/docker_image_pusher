@@ -1,1 +1,1 @@
-langfuse/langfuse:2.91
+frangoteam/fuxa:1.2.1
