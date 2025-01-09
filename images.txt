@@ -1,1 +1,2 @@
-pgduckdb/pgduckdb:17-v0.2.0
+bitnami/kafka:3.8.1
+thingsboard/tb-postgres:3.9.0
