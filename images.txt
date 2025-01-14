@@ -1,2 +1,2 @@
-bitnami/kafka:3.8.1
-thingsboard/tb-postgres:3.9.0
+redpandadata/console:v2.8.2
+redpandadata/redpanda:v24.3.3
