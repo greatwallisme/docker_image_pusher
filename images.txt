@@ -1,1 +1,2 @@
-infiniflow/ragflow:v0.15.1-slim
+ ollama/ollama:0.5.7
+ghcr.io/open-webui/open-webui:0.5.7
