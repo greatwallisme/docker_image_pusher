@@ -1,1 +1,1 @@
-ghcr.io/mendableai/firecrawl
+redis:7.4.2-alpine
