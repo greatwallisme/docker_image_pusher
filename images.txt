@@ -1,1 +1,1 @@
-node：20-apline3.20
+node:20-apline3.20
