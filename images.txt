@@ -1,1 +1,1 @@
-node:20-alpine3.20
+milvusdb/milvus:v2.5.0-beta
