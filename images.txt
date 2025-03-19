@@ -1,1 +1,1 @@
-ghcr.io/songquanpeng/one-api:v0.6.11-preview.7
+node:18-alpine
