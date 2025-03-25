@@ -1,1 +1,4 @@
-langgenius/dify-plugin-daemon:942d694206a1972ae0addd2286a021b62390a8b6-local
+langgenius/dify-api:1.1.3
+langgenius/dify-web:1.1.3
+langgenius/dify-sandbox:0.2.11
+langgenius/dify-plugin-daemon:0.0.6-local
