@@ -1,1 +1,1 @@
-node:18-alpine
+langgenius/dify-plugin-daemon:942d694206a1972ae0addd2286a021b62390a8b6-local
