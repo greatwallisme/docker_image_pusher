@@ -1,1 +1,1 @@
-risingwavelabs/wavekit:v0.3.2-pgbundle
+semitechnologies/weaviate:1.19.0
