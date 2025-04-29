@@ -1,1 +1,2 @@
-semitechnologies/weaviate:1.19.0
+ ollama/ollama:0.6.7
+ ghcr.io/open-webui/open-webui:0.6.7
