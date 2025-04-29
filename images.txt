@@ -1,2 +1,2 @@
  ollama/ollama:0.6.6
- ghcr.io/open-webui/open-webui:0.6.7
+ ghcr.io/open-webui/open-webui:0.6.5
