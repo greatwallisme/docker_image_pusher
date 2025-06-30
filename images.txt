@@ -1,1 +1,5 @@
-hexpm/elixir:1.18.4-erlang-28.0.1-ubuntu-jammy-20250530
+pgduckdb/pgduckdb:17-v0.3.1
+postgrest/postgrest:v13.0.4
+swaggerapi/swagger-ui:v5.25.2
+dpage/pgadmin4:9.4.0
+nginx:1.29.0-bookworm
