@@ -1,1 +1,1 @@
-kalilinux/kali-rolling
+rust:1.88-bookworm
