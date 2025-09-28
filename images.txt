@@ -1,1 +1,2 @@
-minio/mc:RELEASE.2025-08-13T08-35-41Z
+heartexlabs/label-studio:1.20.0
+pgautoupgrade/pgautoupgrade:13-alpine
