@@ -1,1 +1,8 @@
-grafana/grafana:12.2.0-ubuntu
+langgenius/dify-api:1.9.1
+langgenius/dify-web:1.9.1
+postgres:15-alpine
+redis:6-alpine
+langgenius/dify-sandbox:0.2.12
+langgenius/dify-plugin-daemon:0.3.0-local
+ubuntu/squid:6.6-24.04_beta
+semitechnologies/weaviate:1.19.0
