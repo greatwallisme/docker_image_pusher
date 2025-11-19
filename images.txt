@@ -1,1 +1,2 @@
-cloudflare/cloudflared:2025.10.1
+neo4j:5.26.16-community-bullseye
+postgres:18.1-bookworm
