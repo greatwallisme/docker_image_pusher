@@ -1,2 +1,4 @@
-neo4j:5.26.16-community-bullseye
-postgres:18.1-bookworm
+tdengine/tdengine:3.3.6.13
+redpandadata/redpanda:v25.3.1
+redpandadata/console:v3.3.2
+rustfs/rustfs:1.0.0-alpha.70
