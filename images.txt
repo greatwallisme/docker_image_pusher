@@ -1,1 +1,11 @@
-alpine:3.19
+nginx:1.25-alpine
+ubuntu/bind9:9.18-22.04_beta
+dperson/samba
+fauria/vsftpd
+mwader/postfix-relay
+mysql:8.0
+redis:7-alpine
+dorowu/ubuntu-desktop-lxde-vnc:focal
+bitnami/openldap:2.6
+cturra/ntp
+polinux/snmpd
