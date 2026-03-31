@@ -1,3 +1,2 @@
-bitnami/openldap
 cturra/ntp
 polinux/snmpd
