@@ -1,2 +1,10 @@
-cturra/ntp
-polinux/snmpd
+onyxdotapp/onyx-model-server:v3.3.7
+onyxdotapp/onyx-backend:v3.3.7
+onyxdotapp/onyx-web-server:v3.3.7
+postgres:15.2-alpine
+vespaengine/vespa:8.609.39
+opensearchproject/opensearch:3.4.0
+nginx:1.25.5-alpine
+redis:7.4-alpine
+minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
+onyxdotapp/code-interpreter:lastest
