@@ -7,4 +7,4 @@ opensearchproject/opensearch:3.4.0
 nginx:1.25.5-alpine
 redis:7.4-alpine
 minio/minio:RELEASE.2025-07-23T15-54-02Z-cpuv1
-onyxdotapp/code-interpreter:lastest
+onyxdotapp/code-interpreter:latest
