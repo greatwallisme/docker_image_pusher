@@ -1,3 +1,1 @@
-otel/opentelemetry-collector-contrib:0.121.0
-jaegertracing/all-in-one:1.68.0
-prom/prometheus:v3.3.0
+node:22-bookworm-slim
