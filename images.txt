@@ -1,1 +1,11 @@
-rust:1.85-slim-bookworm
+wechatopenai/weknora-ui:v0.8.0
+wechatopenai/weknora-app:v0.8.0
+wechatopenai/weknora-sandbox:v0.8.0
+wechatopenai/weknora-docreader:v0.8.0
+paradedb/paradedb:v0.22.2-pg17
+redis:7.0-alpine
+busybox:1.36
+searxng/searxng:2026.9.16-461f174b0
+minio/minio:RELEASE.2025-09-07T16-13-09Z
+neo4j:2025.10.1
+qdrant/qdrant:v1.16.2
