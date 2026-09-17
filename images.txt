@@ -6,6 +6,6 @@ paradedb/paradedb:v0.22.2-pg17
 redis:7.0-alpine
 busybox:1.36
 searxng/searxng:2026.9.16-461f174b0
-minio/minio:RELEASE.2025-09-07T16-13-09Z
+kotsadm/minio:0.20251015.172955-r10
 neo4j:2025.10.1
 qdrant/qdrant:v1.16.2
